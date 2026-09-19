@@ -1,0 +1,7 @@
+{
+  "name": "demo-app",
+  "version": "1.0.0",
+  "scripts": { "dev": "vite", "build": "vite build" },
+  "engines": { "node": ">=20" },
+  "devDependencies": { "vite": "^5.0.0" }
+}
